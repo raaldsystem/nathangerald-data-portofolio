@@ -1,2 +1,2 @@
 "# nathangerald-data-portofolio" 
-By Nathanael Gerald
+Hello World, my Name is Nathan! 
